@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@okx_ai/okx-trade-mcp": "1.4.9"
+  }
+}

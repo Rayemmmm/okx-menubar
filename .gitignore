@@ -1,0 +1,15 @@
+.DS_Store
+build/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.dmg
+.env
+.env.*
+config.toml
+*.pem
+*.key
+runs/
+reviews/
